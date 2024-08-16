@@ -3,7 +3,8 @@
 	padding:10px;
 }
 #list{
-	display:inline;
+	display:flex;
+	flex-direction:row;
 	margin-right:1rem;
 	list-style:none;
 }
