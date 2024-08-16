@@ -1,22 +1,12 @@
-.container{
+.navbar{
 	background-color:#D3D3D3;
 	padding:10px;
 }
-.list-item{
+.nav-list{
 	display:flex;
 	flex-direction:row;
-	margin-right:1rem;
 	list-style:none;
 }
-#nav-home{
-	margin-right:1rem;
-}
-#nav-about{
-	margin-right:1rem;
-}
-#nav-Contact-us{
-	margin-right:1rem;
-}
-#nav-itinerary{
+.nav-item{
 	margin-right:1rem;
 }
