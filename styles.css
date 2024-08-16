@@ -1,23 +1,21 @@
 .container{
 	background-color:#D3D3D3;
 	padding:10px;
-	margin-right:16px;
 }
 .list-item{
 	display:flex;
 	flex-direction:row;
-	margin-right:16px;
 	list-style:none;
 }
 #nav-home{
-	margin-right:16px;
+	margin-right:1rem;
 }
 #nav-about{
-	margin-right:16px;
+	margin-right:1rem;
 }
 #nav-Contact-us{
-	margin-right:16px;
+	margin-right:1rem;
 }
 #nav-itinerary{
-	margin-right:16px;
+	margin-right:1rem;
 }
