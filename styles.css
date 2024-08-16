@@ -5,6 +5,7 @@
 .list-item{
 	display:flex;
 	flex-direction:row;
+	margin-right:1rem;
 	list-style:none;
 }
 #nav-home{
