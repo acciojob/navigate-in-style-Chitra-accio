@@ -5,9 +5,17 @@
 .list-item{
 	display:flex;
 	flex-direction:row;
-	margin-right:16px;
-	margin-left:16px;
-	margin-top:16px;
-	margin-bottom:16px;
 	list-style:none;
+}
+#nav-home{
+	margin-right:16px;
+}
+#nav-about{
+	margin-right:16px;
+}
+#nav-Contact-us{
+	margin-right:16px;
+}
+#nav-itinerary{
+	margin-right:16px;
 }
